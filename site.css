@@ -1,0 +1,60 @@
+ body {
+	background: #92ebdf ;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+	line-heigh: 1.6;
+}
+.container {
+	margin: 0 auto;
+	width: 960px;
+}
+.place {
+	background-color: #ccf6ef;
+	border-color: #CCC #999 #999 #CCC;
+	border:1px solid #CCC;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+.place h2 {
+	border-bottom: 1px dashed #92ebdf;
+	margin: 0;
+}
+h1 a:hover {
+	background-color: #ccf6ef;
+	color: #4682B4;
+}
+.place img {
+	border: 1px solid #92ebdf;
+	float: left;
+	margin:  10px 10px 0 0;
+	padding: 2px;
+	width: 250px;
+}
+.clear {
+	clear: both;
+}
+.sidenote {
+	background-color: #ccf6ef;
+	border: 1px solid  #CCC;
+	float: right;
+	padding: 10px;
+	width: 260px;
+}
+.sidenote h3 {
+	font-size: 14px;
+	margin-top: 0;
+}
+.sidenote ol {
+	font-size: 12px;
+}
+.places {
+	float: left;
+	width: 660px;
+}
+.footer {
+	font-size: 12px;
+	text-align: center;
+}
+.place a { 
+	color: #008B8B;
+	font-weight: bold;
+}
